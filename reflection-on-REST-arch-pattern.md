@@ -1,3 +1,5 @@
+# Reflections on REST
+
 The REST architectural style has stood the test of time for several key reasons, both from what's highlighted in the paper and general observations in the field of web development:
 
 1. **Simplicity and Flexibility**: REST is based on the foundational technologies and principles of the web, such as HTTP, URIs, and MIME types, which are inherently simple and flexible. This simplicity makes REST easy to understand and implement, fostering widespread adoption and integration into various systems without requiring extensive modifications or custom tooling.
